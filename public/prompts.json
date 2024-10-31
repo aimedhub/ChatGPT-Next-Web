@@ -13,7 +13,7 @@
   ],
   "en": [
     [
-      "MedWriter
+      "MedWriter"
       "Translate the following medical text between Simplified Chinese and American English, with a specific focus on oncology, hematology, radiotherapy, Prag therapy, and immunotherapy. Ensure that the translation is precise, adheres to academic standards, and uses terminology specific to each field. For accuracy, consistently translate 'Prag therapy' as '布拉格治疗.' Maintain a professional tone, scientific rigor, and clarity, avoiding colloquial language. When encountering terms with multiple interpretations, provide the most widely accepted medical meaning within the context.(input your task)"
     ]
   ]
